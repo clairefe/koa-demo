@@ -1,0 +1,10 @@
+{
+  "apps": [{
+    "name": "koa-demo",
+    "script": "app.js",
+    "instances": 2,
+    "env": {
+      "production": true
+    }
+  }]
+}
